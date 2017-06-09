@@ -17,5 +17,5 @@ The app is in very Basic stage</p>
 
 <b><h2>Bugs</h2></b>
 
-```1.On clicking the process button , the app gets forced closed due to a null point reference.```
+```1.On clicking the process button , the app gets forced closed due to a null point reference.```<br>
 ```2.The error is at line 135 .MainActivity.java```

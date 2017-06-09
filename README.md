@@ -8,10 +8,9 @@ Key Tech : <p>``` This application uses Microsoft Cognitive Service - Computer V
 <b>HOW TO USE : </b>
 
 <p>
-```
-Using App is very simple ,```<br>
-```* Open the App ```<br>
-```* A Image to come which is to be recognised``` <br>
-```* <b>Click </b> the " Process " button.<br>
-```
+
+```Using App is very simple ,```<br>
+```1. Open the App ```<br>
+```2. A Image to come which is to be recognised``` <br>
+```3. <b>Click </b> the " Process " button.```<br>
 </p>

@@ -3,7 +3,7 @@
 <p>This project contains an application that will recognise celebrities in domain.
 The app is in very Basic stage</p>
 
-Key Tech : <p>``` This application uses Microsoft Cognitive Service - Computer Vision API for recognition``` </p>
+<b>Key Tech : </b><p>``` This application uses Microsoft Cognitive Service - Computer Vision API for recognition``` </p>
 
 <b>HOW TO USE : </b>
 
@@ -14,3 +14,8 @@ Key Tech : <p>``` This application uses Microsoft Cognitive Service - Computer V
 ```2. A Image to come which is to be recognised``` <br>
 ```3. <b>Click </b> the " Process " button.```<br>
 </p>
+
+<b><h2>Bugs</h2></b>
+
+```1.On clicking the process button , the app gets forced closed due to a null point reference.```
+```2.The error is at line 135 .MainActivity.java```
